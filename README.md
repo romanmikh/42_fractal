@@ -22,10 +22,16 @@ make
 ./fractol
 
 Controls:
+
 Zoom: Mouse scroll or m/n keys.
+
 Move: Arrow keys for panning.
+
 Change Fractals: Follow prompt instructions.
+
 Reset View: R key returns you to the default view.
+
 Exit: Press ESC to quit.
+
 
 Get ready to zoom into infinity! ✨
