@@ -1,4 +1,5 @@
 Fract-ol 🔥🌌
+
 Fract-ol is a fractal explorer built with precision and a love for mathematical beauty. Developed as part of the 42 curriculum, this project generates famous fractals like the Mandelbrot set and Julia sets in real time, showcasing the intricate patterns and infinite complexity of these mathematical phenomena.
 
 Dive into the stunning visual representations of famous fractals like the Mandelbrot set, Julia sets, and more, all while pushing your understanding of complex numbers and recursion to the next level. Whether you're here to fine-tune your skills in graphical programming or just want to create art out of math, Fract-ol has got you covered.
