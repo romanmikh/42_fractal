@@ -11,6 +11,22 @@ Dive into the stunning visual representations of famous fractals, all while push
 - **Customizable Colors**: Make the fractals pop with your own color schemes.
 - **Simple Controls**: Intuitive keyboard and mouse controls for easy navigation through fractal spaces.
 
+# Image Layout
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./img/frac1.png" alt="Fraction 1" width="200"/></td>
+      <td><img src="./img/frac2.png" alt="Fraction 2" width="200"/></td>
+    </tr>
+    <tr>
+      <td><img src="./img/frac3.png" alt="Fraction 3" width="200"/></td>
+      <td><img src="./img/frac4.png" alt="Fraction 4" width="200"/></td>
+    </tr>
+  </table>
+</p>
+
+
 ## How to Run 🚀
 Clone the repository, build the project, and start generating fractals in no time:
 
