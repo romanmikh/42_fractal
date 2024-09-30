@@ -16,12 +16,12 @@ Dive into the stunning visual representations of famous fractals, all while push
 <p align="center">
   <table>
     <tr>
-      <td><img src="./img/frac1.png" alt="Fraction 1" width="200"/></td>
-      <td><img src="./img/frac2.png" alt="Fraction 2" width="200"/></td>
+      <td><img src="./img/frac1.png" alt="Fraction 1" width="400"/></td>
+      <td><img src="./img/frac2.png" alt="Fraction 2" width="400"/></td>
     </tr>
     <tr>
-      <td><img src="./img/frac3.png" alt="Fraction 3" width="200"/></td>
-      <td><img src="./img/frac4.png" alt="Fraction 4" width="200"/></td>
+      <td><img src="./img/frac3.png" alt="Fraction 3" width="400"/></td>
+      <td><img src="./img/frac4.png" alt="Fraction 4" width="400"/></td>
     </tr>
   </table>
 </p>
