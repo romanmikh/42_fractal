@@ -11,8 +11,6 @@ Dive into the stunning visual representations of famous fractals, all while push
 - **Customizable Colors**: Make the fractals pop with your own color schemes.
 - **Simple Controls**: Intuitive keyboard and mouse controls for easy navigation through fractal spaces.
 
-# Image Layout
-
 <p align="center">
   <table>
     <tr>
