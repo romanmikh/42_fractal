@@ -1,4 +1,6 @@
-# Fract-ol 🔥🌌
+## Fract-ol 🌌
+
+**Fract-ol** is a fractal explorer built with precision and a love for mathematical beauty.
 
 <p align="center">
   <table>
@@ -12,8 +14,6 @@
     </tr>
   </table>
 </p>
-
-**Fract-ol** is a fractal explorer built with precision and a love for mathematical beauty.
 
 ## Features 🌟
 - **Mandelbrot, Julia, Mandelbad & Burning Ship fractal sets**
