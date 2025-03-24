@@ -1,6 +1,6 @@
 ## Fractol 🌌
 
-**Fractol** is a fractal explorer built with precision and a love for mathematical beauty.
+**Fractol** is a fractal explorer built with precision and a love for mathematical beauty deleoped entirely in C.
 
 <p align="center">
   <table>
