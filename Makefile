@@ -53,7 +53,7 @@ MLXINC =	-I$(MLXPATH)
 
 SRCSPATH =	./srcs/
 OBJSPATH =	./objs/
-INC =		./headers/
+INC =		./inc/
 
 SRCSNAME =	main.c IO.c colours.c arg_handling.c visuals.c \
 			fractals/mandelbrot.c fractals/burning_ship.c \
