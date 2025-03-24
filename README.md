@@ -1,6 +1,11 @@
-## Fract-ol 🌌
+## Fractol 🌌
 
-**Fract-ol** is a fractal explorer built with precision and a love for mathematical beauty.
+**Fractol** is a fractal explorer built with precision and a love for mathematical beauty.
+
+- **Mandelbrot, Julia, Mandelbad & Burning Ship fractal sets**
+- **Mouse & Key Zoom & Navigation**
+- **Real-time Rendering**
+- **Customizable Colors**
 
 <p align="center">
   <table>
@@ -15,17 +20,11 @@
   </table>
 </p>
 
-## Features 🌟
-- **Mandelbrot, Julia, Mandelbad & Burning Ship fractal sets**
-- **Mouse & Key Zoom & Navigation**
-- **Real-time Rendering**
-- **Customizable Colors**
-
 ## SSH 🚀
 
 ```bash
-git clone https://github.com/romanmikh/fract-ol.git
-cd fract-ol
+git clone https://github.com/romanmikh/42_fractol.git fractol
+cd fractol
 make
 ./fractol
 ```
