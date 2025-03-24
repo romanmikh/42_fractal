@@ -15,6 +15,8 @@
   </table>
 </p>
 
+## ⭐ Features
+
 - **Mandelbrot, Julia, Mandelbad & Burning Ship fractal sets**
 - **Mouse & Key Zoom & Navigation**
 - **Real-time Rendering**
