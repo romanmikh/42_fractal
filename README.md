@@ -2,11 +2,6 @@
 
 **Fractol** is a fractal explorer built with precision and a love for mathematical beauty.
 
-- **Mandelbrot, Julia, Mandelbad & Burning Ship fractal sets**
-- **Mouse & Key Zoom & Navigation**
-- **Real-time Rendering**
-- **Customizable Colors**
-
 <p align="center">
   <table>
     <tr>
@@ -19,6 +14,11 @@
     </tr>
   </table>
 </p>
+
+- **Mandelbrot, Julia, Mandelbad & Burning Ship fractal sets**
+- **Mouse & Key Zoom & Navigation**
+- **Real-time Rendering**
+- **Customizable Colors**
 
 ## SSH 🚀
 
