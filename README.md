@@ -1,6 +1,9 @@
 ## Fractol 🌌
 
-**Fractol** is a fractal explorer built with precision and a love for mathematical beauty deleoped entirely in C.
+- **Mandelbrot, Julia, Mandelbad & Burning Ship fractal sets**
+- **Mouse & Key Zoom & Navigation**
+- **Real-time Rendering**
+- **Customizable Colors**
 
 <div align="center">
   <img src="./img/fractal.gif" alt="Fractal gif" width="800"/>
@@ -16,14 +19,6 @@
     </tr>
   </table>
 </div>
-
-
-## ⭐ Features
-
-- **Mandelbrot, Julia, Mandelbad & Burning Ship fractal sets**
-- **Mouse & Key Zoom & Navigation**
-- **Real-time Rendering**
-- **Customizable Colors**
 
 ## SSH 🚀
 
