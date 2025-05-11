@@ -2,18 +2,21 @@
 
 **Fractol** is a fractal explorer built with precision and a love for mathematical beauty deleoped entirely in C.
 
-<p align="center">
+<div align="center">
+  <img src="./img/fractal.gif" alt="Fractal gif" width="800"/>
+
   <table>
     <tr>
-      <td><img src="./img/frac1.png" alt="Fraction 1" width="400"/></td>
-      <td><img src="./img/frac2.png" alt="Fraction 2" width="400"/></td>
+      <td><img src="./img/frac1.png" alt="Fractal 1" width="400"/></td>
+      <td><img src="./img/frac2.png" alt="Fractal 2" width="400"/></td>
     </tr>
     <tr>
-      <td><img src="./img/frac3.png" alt="Fraction 3" width="400"/></td>
-      <td><img src="./img/frac4.png" alt="Fraction 4" width="400"/></td>
+      <td><img src="./img/frac3.png" alt="Fractal 3" width="400"/></td>
+      <td><img src="./img/frac4.png" alt="Fractal 4" width="400"/></td>
     </tr>
   </table>
-</p>
+</div>
+
 
 ## ⭐ Features
 
