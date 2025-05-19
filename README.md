@@ -20,7 +20,7 @@
   </table>
 </div>
 
-## SSH 🚀
+## SSH
 
 ```bash
 git clone https://github.com/romanmikh/42_fractol.git fractol
@@ -29,10 +29,8 @@ make
 ./fractol
 ```
 
-## Controls 🎮
+## Controls
 - Zoom: Mouse scroll or m/n keys.
 - Move: Arrow keys for panning.
 - Change Fractals: Follow prompt instructions.
 - Exit: Press ESC to quit.
-
-Get ready to zoom into infinity! ✨
